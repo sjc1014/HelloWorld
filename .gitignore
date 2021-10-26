@@ -33,4 +33,22 @@ hs_err_pid*
 .vscode
 
 
-target/
+# IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+# Maven
+/logs/
+/target/
+
+# Directories
+/bin/
+/deploy/
+
+# Logs
+*.log
+
